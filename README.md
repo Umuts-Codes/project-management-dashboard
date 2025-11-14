@@ -31,7 +31,7 @@ This allows the company’s current status to be viewed instantly.
 <br><br>
 
 
-## Tasks Page
+## TASKS PAGE
 
 This page displays upcoming tasks assigned to four different team members.  
 Through the JavaScript function running in the background, the user first enters the team member's name, followed by the task's date.  
@@ -49,7 +49,7 @@ The system then displays the team member's name, the assigned task, and the corr
 <br><br>
 
 
-## Team Page
+## TEAM PAGE
 
 This page displays the information of new team members powered by a JavaScript function running in the background.  
 For the four team members, their team number, department, and joining date are shown.  
@@ -68,7 +68,7 @@ After clicking the "Add Member" button, the new member's name, role, and email a
 
 
 
-## Reports Page
+## REPORTS PAGE
 
 This page is designed to display the company's data in percentages.  
 By entering any number in the JavaScript section the values and ratios are automatically calculated and updated.  
@@ -80,3 +80,16 @@ It shows the variability of the company in the Project Overview and Performance 
 ![Reports-high](screenshots/Reports-high.png)
 
 ![2-Reports-high](screenshots/2-Reports-high.png)
+
+
+<br><br>
+
+
+## REPORTS PAGE — Activity Log
+
+The Activity Log section reflects the work currently being done by the four team members as well as the tasks they have completed previously.
+
+![Activity-log](screenshots/Activity-log.png)
+
+![Activity-log-past](screenshots/Activity-log-past.png)
+
