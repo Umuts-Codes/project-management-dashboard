@@ -44,3 +44,22 @@ The system then displays the team member's name, the assigned task, and the corr
 ![Michael](screenshots/Michael.png)
 
 ![Emily](screenshots/Emily.png)
+
+
+<br><br>
+
+
+## Team Page
+
+This page displays the information of team members, powered by a JavaScript function running in the background.  
+For the four team members, their team number, department, and joining date are shown.  
+After clicking the "Add Member" button, the new member's name, role, and email address appear in the left panel.
+
+![Daniel](screenshots/Added-Daniel.png)
+
+![Sophia](screenshots/Added-Sophia.png)
+
+![Liam](screenshots/Added-Liam.png)
+
+![Olivia](screenshots/Added-Olivia.png)
+
