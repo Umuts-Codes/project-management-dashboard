@@ -31,7 +31,7 @@ This allows the company’s current status to be viewed instantly.
 <br><br>
 
 
-## Task Page
+## Tasks Page
 
 This page displays upcoming tasks assigned to four different team members.  
 Through the JavaScript function running in the background, the user first enters the team member's name, followed by the task's date.  
