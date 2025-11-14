@@ -100,7 +100,7 @@ The Activity Log section reflects the work currently being done by the four team
 
 ## SETTINGS PAGE — Progress Bar Style
 
-In the Progress Bar Style section, the bars linked to the settings page create a visually appealing animation through the combined work of JavaScript and CSS animations.
+In the Progress Bar Style section, the bars linked to the settings page create a visually appealing and sweet animation through the combined work of JavaScript and CSS animations.
 
 ![Progress-bar-linear](screenshots/Progress-bar-linear.png)
 
