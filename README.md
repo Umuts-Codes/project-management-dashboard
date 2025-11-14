@@ -34,8 +34,8 @@ This allows the company’s current status to be viewed instantly.
 ## Task Page
 
 This page displays upcoming tasks assigned to four different team members.  
-Through the JavaScript function running in the background, the user first enters the person's name, followed by the task description. 
-The system then places the task into the correct table cell, indicating the task details and the date it is scheduled to begin.
+Through the JavaScript function running in the background, the user first enters the team member's name, followed by the task's date.  
+The system then displays the team member's name, the assigned task, and the corresponding start date beneath it.
 
 
 ![Michael](screenshots/Michael.png)
