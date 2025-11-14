@@ -14,7 +14,7 @@ The Recent Activity, Upcoming Deadlines, and Announcements sections showcase the
 
 <br><br>
 
-## Home Page — JavaScript Functionality
+## HOME PAGE — JavaScript Functionality
 
 When user enter the Task, Assigned To, Status, and Deadline fields in the Task List section the Vanilla JavaScript function running in the background updates the data in the Project Progress and Quick Stats sections. 
 This allows the company’s current status to be viewed instantly.
@@ -63,3 +63,20 @@ After clicking the "Add Member" button, the new member's name, role, and email a
 
 ![Olivia](screenshots/Added-Olivia.png)
 
+
+<br><br>
+
+
+
+## Reports Page
+
+This page is designed to display the company's data in percentages.  
+By entering any number in the JavaScript section the values and ratios are automatically calculated and updated.  
+It shows the variability of the company in the Project Overview and Performance Charts sections.
+
+
+![Reports-page](screenshots/Reports-page.png)
+
+![Reports-high](screenshots/Reports-high.png)
+
+![2-Reports-high](screenshots/2-Reports-high.png)
