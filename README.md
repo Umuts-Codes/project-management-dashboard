@@ -37,11 +37,10 @@ This page displays upcoming tasks assigned to four different team members.
 Through the JavaScript function running in the background, the user first enters the team member's name, followed by the task's date.  
 The system then displays the team member's name, the assigned task, and the corresponding start date beneath it.
 
-
-![Michael](screenshots/Michael.png)
-
 ![John](screenshots/John.png)
 
 ![Elizabeth](screenshots/Elizabeth.png)
+
+![Michael](screenshots/Michael.png)
 
 ![Emily](screenshots/Emily.png)
