@@ -11,3 +11,18 @@ This is the main landing page displayed when entering the site.
 The Recent Activity, Upcoming Deadlines, and Announcements sections showcase the latest updates, providing company-level operational information and examples of entered data.
 
 ![First Appearance](screenshots/First-appearance.png)
+
+<br>
+
+When user enter the Task, Assigned To, Status, and Deadline fields in the Task List section the Vanilla JavaScript function running in the background updates the data in the Project Progress and Quick Stats sections. 
+This allows the company’s current status to be viewed instantly.
+
+![Task](screenshots/Task.png)
+
+![Assigned To](screenshots/Assigned-To.png)
+
+![Status](screenshots/Status.png)
+
+![Deadline](screenshots/Deadline.png)
+
+
