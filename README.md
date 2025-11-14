@@ -28,3 +28,20 @@ This allows the company’s current status to be viewed instantly.
 ![Deadline](screenshots/Deadline.png)
 
 
+<br><br>
+
+
+## Task Page
+
+This page displays upcoming tasks assigned to four different team members.  
+Through the JavaScript function running in the background, the user first enters the person's name, followed by the task description. 
+The system then places the task into the correct table cell, indicating the task details and the date it is scheduled to begin.
+
+
+![Michael](screenshots/Michael.png)
+
+![John](screenshots/John.png)
+
+![Elizabeth](screenshots/Elizabeth.png)
+
+![Emily](screenshots/Emily.png)
