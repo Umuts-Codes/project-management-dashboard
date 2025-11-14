@@ -93,3 +93,34 @@ The Activity Log section reflects the work currently being done by the four team
 
 ![Activity-log-past](screenshots/Activity-log-past.png)
 
+
+<br><br>
+
+
+
+## SETTINGS PAGE — Progress Bar Style
+
+In the Progress Bar Style section, the bars linked to the settings page create a visually appealing animation through the combined work of JavaScript and CSS animations.
+
+![Progress-bar-linear](screenshots/Progress-bar-linear.png)
+
+![Progress-bar-gradient](screenshots/Progress-bar-gradient.png)
+
+![Progress-bar-animated](screenshots/Progress-bar-animated.png)
+
+
+<br><br>
+
+
+
+## SETTINGS PAGE — Notification Preferences
+
+On this page the notification preferences can be selected as desired None, Important Only, or All Notifications.  
+This section is powered by JavaScript in the background and is prepared for future backend development.
+
+
+![Notification-Preferences-None](screenshots/Notification-Preferences-None.png)
+
+![Notification-Preferences-Important-Only](screenshots/Notification-Preferences-Important-Only.png)
+
+![Notification-Preferences-All-Notifications](screenshots/Notification-Preferences-All-Notifications.png)
