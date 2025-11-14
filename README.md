@@ -12,7 +12,9 @@ The Recent Activity, Upcoming Deadlines, and Announcements sections showcase the
 
 ![First Appearance](screenshots/First-appearance.png)
 
-<br>
+<br><br>
+
+## Home Page — JavaScript Functionality
 
 When user enter the Task, Assigned To, Status, and Deadline fields in the Task List section the Vanilla JavaScript function running in the background updates the data in the Project Progress and Quick Stats sections. 
 This allows the company’s current status to be viewed instantly.
