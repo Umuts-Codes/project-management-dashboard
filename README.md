@@ -124,3 +124,7 @@ This section is powered by JavaScript in the background and is prepared for futu
 ![Notification-Preferences-Important-Only](screenshots/Notification-Preferences-Important-Only.png)
 
 ![Notification-Preferences-All-Notifications](screenshots/Notification-Preferences-All-Notifications.png)
+
+<br>
+
+This update prepares the branch for a community share PR.
