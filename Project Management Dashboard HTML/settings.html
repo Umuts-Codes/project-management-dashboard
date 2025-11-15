@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings - Project Management Dashboard</title>
+    <link rel="stylesheet" href="css/settings.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/bar-chart.png">
+</head>
+<body>
+    <header>
+        <h1>Settings</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="tasks.html">Tasks</a></li>
+            <li><a href="team.html">Team</a></li>
+            <li><a href="reports.html">Reports</a></li>
+            <li><a href="settings.html" class="active">Settings</a></li>
+        </ul>
+    </nav>
+
+   
+
+
+    <main>
+        <section id="preferences">
+            <h2>User Preferences</h2>
+            <form id="preferences-form">
+                  <label for="progress-style-select">Progress Bar Style</label>
+                  <select id="progress-style-select">
+                  <option value="linear">Linear</option>
+                  <option value="gradient">Gradient</option>
+                  <option value="animated">Animated</option>
+               </select>
+
+
+                <label for="notification-select">Notification Preferences</label>
+                <select id="notification-select" name="notifications">
+                    <option value="none">None</option>
+                    <option value="important">Important Only</option>
+                    <option value="all">All Notifications</option>
+                </select>
+
+            </form>
+        </section>
+
+    
+
+
+
+    
+<div class="progress-bar">
+  <div class="progress-fill" id="bar1"></div>
+  <img src="assets/images/grey-button.png" alt="settings" class="grey-button" id="gear1">
+</div>
+
+<div class="progress-bar">
+  <div class="progress-fill" id="bar2"></div>
+  <img src="assets/images/grey-button.png" alt="settings" class="grey-button" id="gear2">
+</div>
+
+<div class="progress-bar">
+  <div class="progress-fill" id="bar3"></div>
+  <img src="assets/images/grey-button.png" alt="settings" class="grey-button" id="gear3">
+</div>
+
+</section>
+
+</main>
+
+
+
+
+
+
+
+
+
+<section id="settings-images">
+    <img src="assets/images/settings-1.png" alt="Settings Image 1">
+    <img src="assets/images/settings-2.png" alt="Settings Image 2">
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FOOTER -->
+
+<footer>
+  <p>© 2025 Project Management Dashboard</p>
+  <div class="footer-links">
+    <a href="#">Privacy Policy</a> |
+    <a href="#">Terms</a> |
+    <a href="#">Contact</a>
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+ <script src="js/settings.js" defer></script>
+
+
+</body>
+</html>
