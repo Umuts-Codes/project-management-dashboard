@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reports - Project Management Dashboard</title>
+    <link rel="stylesheet" href="css/reports.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/bar-chart.png">
+</head>
+<body>
+    <header>
+        <h1>Project Reports</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="tasks.html">Tasks</a></li>
+            <li><a href="team.html">Team</a></li>
+            <li><a href="reports.html" class="active">Reports</a></li>
+            <li><a href="settings.html">Settings</a></li>
+        </ul>
+    </nav>
+
+
+
+
+    <main>
+        <section id="overview">
+            <h2>Project Overview</h2>
+            <p>Total Tasks: <span id="total-tasks">0</span></p>
+            <p>Completed Tasks: <span id="completed-tasks">0</span></p>
+            <p>Pending Tasks: <span id="pending-tasks">0</span></p>
+            <p>Progress: <span id="progress-percentage">0%</span></p>
+        </section>
+
+        <section id="charts">
+            <h2>Performance Charts</h2>
+            <!-- Placeholder for dynamic charts (JS will load here later) -->
+            <div id="charts-container">
+                <p>Charts will be displayed here.</p>
+            </div>
+        </section>
+
+        <section id="activity-log">
+            <h2>Activity Log</h2>
+            <ul id="log-list">
+               <!-- Recent activities will appear here -->
+            </ul>
+        </section>
+    </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- FOOTER -->
+
+<footer>
+  <p>© 2025 Project Management Dashboard</p>
+  <div class="footer-links">
+    <a href="#">Privacy Policy</a> |
+    <a href="#">Terms</a> |
+    <a href="#">Contact</a>
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+ <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+ <script src="js/reports.js" defer></script>
+
+
+</body>
+</html>
